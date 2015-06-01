@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+To initialize a repository you use the command 'git init' in the directory where you want the repository.  Git then starts a repository but does not make an initial commit - you need to do that.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a holding pen of items that are waiting to be part of a commit.  The reflect changes in items that are in the working directory but not yet reflected in the repository with a commit
+
+*** PROBLEM WITH NOTEPAD++  -- SOLVED!!!! ***
+http://www.kitware.com/blog/home/post/85  
+need to run the following command: 
+git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe'\ -multiInst -notabbar -nosession -noPlugin"
