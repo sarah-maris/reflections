@@ -1,0 +1,14 @@
+Of course it's very helpful to see differences between files.  I'm glad I'm gettin practice using the command prompt -- takes me back to the good old days when I used MS-DOS.
+But the "Compare" plugin in Notepad++ is much easier to use and highlights the differences better than using either FC in Windows or diff in unix.  I think I'll stick to that
+unless I get a better reason not to.
+
+Manual commits make more sense but require a lot more discipline to really make them happen.
+
+Multi-file commits are critical for coding.  You need to see all of the things that contribute to the change at the same time\
+
+Using git log let's you see a list of commits starting with the most recent.  It will stop after a bit. Hit space bar to see more.  Hit q when you've found the commit you are interested in.
+Use diff to compare commits  diff {id from old file} {id from new file}. You can see the changes.  hit q to exit
+
+Being able to go back to a stable version makes it much safer to make risky big changes to the code.  It's like a get out of jail free card
+
+link to windows set up: https://www.udacity.com/course/viewer#!/c-ud775/l-2980038599/m-3341718587
