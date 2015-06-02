@@ -6,7 +6,7 @@ If you are working on more than one computer -e.g. desktop at home, laptop on th
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Pulling changes manually gives you control over the project and your work flow.  You decide when to add the new changes vs. Git forcing them on you before you are ready to incorporate them.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
