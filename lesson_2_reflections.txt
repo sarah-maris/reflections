@@ -18,3 +18,9 @@ Branches are helpful when you want to try something out that you aren't sure wil
 
 How do the diagrams help you visualize the branch structure?
 The diagram shows the importance of managing branches.  Changes that are not on a branch are lost, which is great if they don't work but a problem if they are something you want to keep
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging the two branches combines the code from the two branches.  We show it in the diagram as part of the path
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pro is that it is a real time saver. Git makes smart decisions about what to keep and what's a conflict.  Can't think of a con other than it's not perfect which means you will have to do some conflict resolution.
